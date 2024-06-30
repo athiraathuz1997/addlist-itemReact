@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addlist-itemReact/static/css/main.dc4d6ff2.css",
+    "main.js": "/addlist-itemReact/static/js/main.458f369a.js",
+    "index.html": "/addlist-itemReact/index.html",
+    "main.dc4d6ff2.css.map": "/addlist-itemReact/static/css/main.dc4d6ff2.css.map",
+    "main.458f369a.js.map": "/addlist-itemReact/static/js/main.458f369a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.458f369a.js"
+  ]
+}
