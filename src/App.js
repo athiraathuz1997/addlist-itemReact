@@ -1,23 +1,20 @@
-import logo from './logo.svg';
+
 import './App.css';
+// import Todo from './Components/Todo';
+import Todoexam from './Components/Todoexam';
+
+// import UseEffectpage from './Components/UseEffectpage';
+// import CounterApp from './Components/CounterApp';
+
+// import StateBase from './Components/StateBase';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Todoexam/>
+      {/* <UseEffectpage/> */}
+      {/* <CounterApp></CounterApp> */}
+      {/* <StateBase/> */}
     </div>
   );
 }
